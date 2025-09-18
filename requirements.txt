@@ -1,0 +1,10 @@
+gradio
+pandas
+langchain
+langchain-google-genai
+langchain-experimental
+matplotlib
+numpy
+python-dotenv
+google-ai-generativelanguage==0.6.15
+openpyxl

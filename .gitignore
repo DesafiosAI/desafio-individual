@@ -1,0 +1,12 @@
+# Arquivos de ambiente com segredos - NUNCA ENVIAR!
+.env
+
+# Arquivos temporários gerados pelo Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários de gráficos gerados pela aplicação
+temp_plot.png
+
+# Arquivos de sistema operacional (boa prática)
+.DS_Store
